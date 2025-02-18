@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Full Stack Software Developer",
+    "organisation": "Bell Canada",
+    "startDate": "March, 2021",
+    "endDate": "November, 2024",
+    "experiences": ["Developed robust full-stack web applications", "Improve operational efficiency"],
+    "imageSrc": "history/bell.png"
+  },
+  {
+    "role": "Software Developer (Part time)",
+    "organisation": "Records of Early English Drama, UofT",
+    "startDate": "August, 2021",
+    "endDate": "April, 2022",
+    "experiences": ["Improved existing website by adding features", "Adjusting the design perspective"],
+    "imageSrc": "history/reed.png"
+  },
+  {
+    "role": "Web Developer (Freelance)",
+    "organisation": "Cho Orthodontics",
+    "startDate": "April, 2020",
+    "endDate": "June, 2020",
+    "experiences": [
+      "Developed a fully responsive website",
+      "Provided timely and effective technical support"
+    ],
+    "imageSrc": "history/choortho.png"
+  },
+  {
+    "role": "Programmer (Co-op)",
+    "organisation": "Airway Interline",
+    "startDate": "August, 2018",
+    "endDate": "April, 2019",
+    "experiences": [
+      "Developed front end public/internal websites ",
+      "Implemented based on UI design"
+    ],
+    "imageSrc": "history/airwayinterline.png"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "WonkiWeb (My Profile Page)",
+    "imageSrc": "projects/profile.png",
+    "description": "This is a website where I share my work experience, my skills, and about myself.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "",
+    "source": "https://github.com/wonkihwang/"
+  },
+  {
+    "title": "Finding Location System",
+    "imageSrc": "projects/location.png",
+    "description": "Developed an internal web application and microservices to find location of a person.",
+    "skills": ["Java", "Spring Boot", "AngularJS", "HTML", "CSS"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Records of Early English Drama (REED)",
+    "imageSrc": "projects/reed.png",
+    "description": "Added new facets, filters and features to the Search the Records page.",
+    "skills": ["HTML", "JavaScript", "CSS"],
+    "demo": "https://ereed.org/search/",
+    "source": "https://gitlab.com/REEDProject/"
+  },
+  {
+    "title": "Cho Orthodontics",
+    "imageSrc": "projects/choortho.png",
+    "description": "Planned, designed and developed the responsive website that introduces the business.",
+    "skills": ["HTML", "JavaScript", "CSS", "Bootstrap", "PHP"],
+    "demo": "https://choyoursmile.com/",
+    "source": "https://github.com/wonkihwang/cho_orthodontics"
+  },
+  {
+    "title": "Airway2rs and Travel",
+    "imageSrc": "projects/tours.png",
+    "description": "Designed and developed front-end of the website that introduces the list of tour packages.",
+    "skills": ["HTML", "JavaScript", "jQuery", "CSS", "Bootstrap"],
+    "demo": "https://www.airway2rs.com/",
+    "source": "https://github.com/wonkihwang/airwaytours"
+  }
+]
