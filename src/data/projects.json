@@ -5,7 +5,7 @@
     "description": "This is a website where I share my work experience, my skills, and about myself.",
     "skills": ["React", "HTML", "CSS"],
     "demo": "",
-    "source": "https://github.com/wonkihwang/"
+    "source": "https://github.com/wonkihwang/react-portfolio"
   },
   {
     "title": "Finding Location System",
